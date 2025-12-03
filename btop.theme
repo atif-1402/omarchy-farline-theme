@@ -1,0 +1,73 @@
+# Main background (keep for muted look)
+theme[main_bg]="#232529"
+
+# Main text color
+theme[main_fg]="#d6dcd9"
+
+# Title color for boxes (muted rose-grey)
+theme[title]="#b8a8b0"
+
+# Highlight color (soft teal-muted)
+theme[hi_fg]="#7ea4aa"
+
+# Selected process background (muted steel)
+theme[selected_bg]="#5f6772"
+
+# Selected foreground
+theme[selected_fg]="#d6dcd9"
+
+# Inactive text
+theme[inactive_fg]="#6d727a"
+
+# Process misc (titles, graph text)
+theme[proc_misc]="#b8a8b0"
+
+# Box outlines — muted dusty green-grey
+theme[cpu_box]="#8f9a95"
+theme[mem_box]="#8f9a95"
+theme[net_box]="#8f9a95"
+theme[proc_box]="#8f9a95"
+
+theme[div_line]="#6d727a"
+
+# ---------------- GRADIENTS ---------------- #
+
+# Temp — muted aqua → greyblue → sage
+theme[temp_start]="#7ea4aa"
+theme[temp_mid]="#7f8ea0"
+theme[temp_end]="#8f9a95"
+
+# CPU — same muted spectrum for consistency
+theme[cpu_start]="#7ea4aa"
+theme[cpu_mid]="#7f8ea0"
+theme[cpu_end]="#8f9a95"
+
+# Free memory — cooler + desaturated
+theme[free_start]="#7f8ea0"
+theme[free_mid]="#a7a89a"
+theme[free_end]="#a7a89a"
+
+# Cached — ultra-muted beige-grey
+theme[cached_start]="#a7a89a"
+theme[cached_mid]="#a7a89a"
+theme[cached_end]="#a7a89a"
+
+# Available — unified muted aqua
+theme[available_start]="#7ea4aa"
+theme[available_mid]="#7ea4aa"
+theme[available_end]="#7ea4aa"
+
+# Used — muted sage-grey
+theme[used_start]="#8f9a95"
+theme[used_mid]="#8f9a95"
+theme[used_end]="#8f9a95"
+
+# Download — beige-grey → aqua → steel blue
+theme[download_start]="#a7a89a"
+theme[download_mid]="#7ea4aa"
+theme[download_end]="#7f8ea0"
+
+# Upload — same gradient for symmetry
+theme[upload_start]="#a7a89a"
+theme[upload_mid]="#7ea4aa"
+theme[upload_end]="#7f8ea0"
