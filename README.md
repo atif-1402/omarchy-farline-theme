@@ -1,4 +1,4 @@
-# FarLine
+# Farline
 
 - 📦 Install -
    - Paste the command in your terminal ⬇️
